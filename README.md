@@ -5,4 +5,4 @@ I used machine learning classification algorithms to predict whether reviews lef
 Then, I created an application using Flask API to predict the sentiment of user-input text from a webpage.
 
 
-## More information regarding this project, including design, methods, results, discussion, and more, can be found at the top of the python notebook.
+## More information regarding this project, including design, methods, results, discussion, and more, can be found at the top of the Jupyter notebook.
